@@ -1,7 +1,7 @@
 # full-screen-slider
 
 Here is deployed version:
-### [Live Site]((https://full-screen-js-slider.netlify.app/))
+### [Live Site](https://full-screen-js-slider.netlify.app/)
 
 ## Introduction
 
